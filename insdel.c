@@ -1,3 +1,4 @@
+//...How to insert, delete, traverse data in array...// 
 #include<stdio.h>
 #define SIZE 5
 int currentpos;
